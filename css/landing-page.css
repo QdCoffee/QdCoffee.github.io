@@ -107,8 +107,20 @@ h6 {
     margin-bottom: 30px;
 }
 
+.section-heading-center {
+    text-align: center;
+    margin: 0 auto;
+    margin-bottom: 30px;
+}
+
 .section-heading-spacer {
     float: left;
+    width: 200px;
+    border-top: 3px solid #e7e7e7;
+}
+
+.section-heading-spacer-center {
+    float: center;
     width: 200px;
     border-top: 3px solid #e7e7e7;
 }
